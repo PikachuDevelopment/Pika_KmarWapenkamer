@@ -12,7 +12,7 @@
 ### Met Git
 ```
 cd resources
-git clone https://github.com/qalle-fivem/qalle_policearmory
+git clone https://github.com/PikachuDevelopment/Pika_KmarWapenkamer
 ```
 
 ### Manueel
