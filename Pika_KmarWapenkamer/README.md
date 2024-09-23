@@ -15,14 +15,12 @@ cd resources
 git clone https://github.com/PikachuDevelopment/Pika_KmarWapenkamer
 ```
 
-### Manueel
-- Download dit.
 
 ## INSTALATIE
 - Voeg toe aan `server.cfg`:
 
 ```
-Ensure NL_Kmararmory
+Ensure Pika_KmarWapenkamer
 ```
 
 ### Bedankt naar
